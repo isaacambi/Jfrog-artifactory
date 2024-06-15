@@ -1,3 +1,3 @@
 # Jfrog-artifactory
 
-![image](jfrog.png)
+![image](Jfrog.png)
