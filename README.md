@@ -34,5 +34,9 @@ To launch an Ubuntu instance with a t2.medium instance type on AWS, follow these
 
 5. Review your settings and click “Launch” to create your Ubuntu instance.
 
+### INSTALL JAVA
 
+Connect to Your server using Mobaxterm or Terminal
+
+```sudo apt-get update```
 
